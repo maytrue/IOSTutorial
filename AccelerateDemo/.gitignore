@@ -1,0 +1,5 @@
+DerivedData/
+# Xcode
+xcuserdata
+xcshareddata
+*.xccheckout
